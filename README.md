@@ -63,9 +63,9 @@ The Project was created with:
 
 ## Screenshots
 
-![Alt text]()
+![Alt text](https://github.com/Case1440/verbose-couscous/blob/main/Screenshot%202023-11-18%20011404.png)
 
-![Alt text]()
+![Alt text](https://github.com/Case1440/verbose-couscous/blob/main/Screenshot%202023-11-18%20011413.png)
 
 ## Summary
 
